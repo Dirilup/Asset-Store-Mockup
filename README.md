@@ -1,3 +1,10 @@
+En este repositorio se encontrara el mockup de la pagina web Asset Store, con la finalidad de mostrar el prototipo del front-end y culminar el desarrollo de credenciales inteligentes , cabe mencionar que para el desarrollo de este se utilizo una plantilla no de mi autoria debajo se encuentra la descripcion de la plantilla utilizada.
+
+
+
+
+
+
 Thanks for downloading this theme!
 
 ## Other Useful Links
